@@ -1,1 +1,3 @@
 Another test. Now we're using git.
+
+- An addition to this file to check git!
